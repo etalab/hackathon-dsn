@@ -6,9 +6,9 @@ Dépôt pour le Hackathon DSN organisé par la Direction interministérielle du 
 
 ## 👩‍💻 Comment participer ? 
 
-Pour participer au Hackathon vous devez tout d'abord créer un fork de ce dépôt. Pour cela cliquez [ici](https://github.com/etalab-ia/Hackathon-DSN/fork) puis sur *"Create fork"*. Vérifiez que votre fork est bien public dans les settings. 
+Pour participer au Hackathon vous devez créer un dépôt public (vous pouvez par exemple partir d'un fork de ce dépôt en cliquant [ici](https://github.com/etalab-ia/Hackathon-DSN/fork) puis sur *"Create fork"*).
 
-Vous pouvez déposer votre code sur ce fork, il servira pour l'évaluation de votre projet à l'issu du Hackathon ! 
+Votre dépôt servira pour l'évaluation de votre projet à l'issu du Hackathon ! 
 
 Bon courage 🔥!
 
