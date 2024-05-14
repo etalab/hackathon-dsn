@@ -10,26 +10,21 @@ Notre hypothèse : en orientant les personnes en sortie de parcours vers des ent
 
 Solution : donner accès aux chargés d'insertion professionnels à une liste dynamque d'entreprises qui se distinguent par leur pratiques RH inclusives, par bassin d'emploi et secteur d'activité
 
-Les données DSN permettent de calculer un score d'engagement, à partir de plusieurs paramètres : 
+Les données DSN permettent de calculer un score d'engagement. Nous requêtons plusieurs paramètres ou champs de données autour de 2 thématiques : 
 
-Profils des personnes recrutés (capacité à faire des « paris ») : répartition homme / femmes, embauches de personnes sans expérience préalables, de personnes avec des périodes de chômages ou d'arrêts longs, embauches de jeunes ou séniors, de bénéficiaires de l'obligation d'emploi travailleurs handicapé
+D'une part, les **profils des personnes recrutés** (on jauge la capacité d'un employeur à faire des « paris ») : répartition homme / femmes, embauches de personnes sans expérience préalables, de personnes avec des périodes de chômages ou d'arrêts longs, embauches de jeunes ou séniors, de bénéficiaires de l'obligation d'emploi travailleurs handicapé
 
-Types de contrats proposés 
+D'autre part, la **nature des contrats proposés et les conditions de travail** : durée moyenne et médiane des CDD, type de contrats, etc. 
 
-Durabilité et environnement de travail : accidents de travail  
-
-- lieu
-- code NAF
-- effectif
-- nombre de personnes dans les 5 dernières années + nbre de contrats
-- type de contrats,  / durée moyenne et médiane des CDD, tranches d'âge, embauches en contrats aidés, embauches de personnes sans expériences, ou profils TH
-
-* *Quelle est la méthode de création de la solution ?*
+Du point de vue de la méthode : 
+- on est repartis du produit minimum viable (une listing d'entreprises accessible à un accompagnateur)
+- on a identifié toutes les données qui pourraient servir de signaux d'engagement
+- xxxxxx
 
 ### Impact envisagé
 
-* *Que permet de faire la solution ?*
-* *Qui sont les usagers visés, et qu’en feraient-ils ?*
+- Impact visé pour les personnes éloignées de l'emploi : accéder plus rapidement à un emploi et le conserver (hausse du taux de retour  à l'emploi et du maintien dans l'emploi à 6 et 12 mois)
+- Impact visé pour les entreprises : accélérer l'adoption de pratiquess de recrutement inclusives. Ce que l'on souhaite mesurer : est-ce que l'exposition à un score peut inciter les entreprises à modifier leur comportement de recrutement ? les entreprises qui n'ont pas le label engagée et à qui on a partagé leurs résultats ont-elles un socre qui s'améliore dans le temps ? Plus rapidement que les entreprises comparables qui n'ont pas été exposées à leur résultat. 
 
 ### Ressources
 
