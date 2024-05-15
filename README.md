@@ -11,16 +11,17 @@ Dépôt pour le Hackathon DSN organisé par la Direction interministérielle du 
     - En contrepartie des efforts consenties par les SIAE pour accompagner les personnes des aides au poste sont versées mensuellement. Pour obtenir ces aides les SIAE doivent réaliser des actes administratifs sur les emplois de l’inclusion (délivrance d’un PASS IAE pour chaque personne) et sur l’extranet 2.0 IAE de l’Agence de Service et de Paiement (saisie mensuelle des données de paie)
     - Cette charge administrative a pu être quantifiée dans une étude réalisée par la DREETS Grand Est en 2021 auprès des encadrants des SIAE : 14% du temps y est consacré !
         
-        ![Capture d’écran 2024-05-14 à 16.18.44.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/35d7741c-274e-42dd-ba23-fc43e3eac27f/77fc6158-151c-499b-bfa1-d5fa53d597e1/Capture_decran_2024-05-14_a_16.18.44.png)
+        ![Charge administrative](img/missions_encadrants.png)
         
 - *A quelle problématique s’attaque votre projet ?*
     - Le PASS IAE est attribué pour une durée initiale de deux ans, renouvelable sous certaines conditions. Il garantit que la personne concernée recevra un soutien adapté à ses besoins pour améliorer ses compétences, résoudre les obstacles à l'emploi et progresser vers un travail durable. Le dispositif assure également un lien entre les différentes parties prenantes (employeurs, conseillers d'insertion, services sociaux) pour un suivi cohérent et efficace du parcours d'insertion.
     - Des suspensions de parcours sont possible dans plusieurs cas, comme une reprise d'emploi en dehors du cadre de l'IAE, une formation longue durée, ou des motifs personnels comme des raisons de santé. La suspension permet de mettre en pause le parcours d'insertion sans perdre les droits acquis, facilitant ainsi une reprise du PASS IAE ultérieurement. Cette flexibilité est essentielle pour s'adapter aux parcours de vie souvent complexes des bénéficiaires de l'IAE. Le suivi reste coordonné entre les différents acteurs pour assurer une reprise efficace et adaptée du parcours d'insertion lorsque la personne est prête.
     - La suspension est déclarée à la discrétion de l’employeur sur les emplois de l’inclusion. Ainsi pour une même situation une SIAE peut suspendre le PASS IAE ou non. De fait il peut y avoir une inégalité de traitement pour les personnes.
+
 - *Quelle est votre proposition de valeur ?*
     - En utilisant les informations sur le temps de travail déclaré chaque mois nous serons capable de mettre à jour un compteur de droit à travailler dans l'Insertion par l'Activité Economique. Cela permettra notamment de garantir une égalité de traitement de personnes et de libérer les SIAE d’une contrainte administrative au profit de l’accompagnement. Ce dernier point est également confirmé dans l’étude de la DREETS.
         
-        ![Capture d’écran 2024-05-14 à 15.32.25.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/35d7741c-274e-42dd-ba23-fc43e3eac27f/746ddde0-58ef-4200-b584-340bb29dcdca/3e7792f5-7a12-472f-9b74-66888f20ec2d.png)
+        ![Freins à l'accompagnement](img/freins.png)
         
 
 **Solution**
